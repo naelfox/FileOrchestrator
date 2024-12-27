@@ -1,8 +1,6 @@
 # FileOrchestrator
 
 
-# FileOrchestrator
-
 File Orchestrator is a simple yet powerful PHP library for string manipulation.  
 It helps developers work with text more efficiently by offering tools to:  
 
