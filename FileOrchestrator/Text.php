@@ -1,12 +1,11 @@
 <?php
 
-namespace Src;
-
-class StrTool
+namespace FileOrchestrator;
+class Text
 {
     /**
-     * Obtém uma parte da string passando suas posições
      * Get a part of the string by passing its positions
+     * Obtém uma parte da string passando suas posições
      * @param int $string
      * @param int $start
      * @param int $end
@@ -28,8 +27,8 @@ class StrTool
     }
 
     /**
-     * Formata para escrita
      * Format to write
+     * Formata para escrita
      * @param mixed $dado
      * @param mixed $length
      * @param mixed $padString

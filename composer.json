@@ -1,6 +1,6 @@
 {
-    "name": "naelf/strtool",
-    "description": "pt: Ferramentas de manipulação de strings para arquivos de remessa/retorno \n en: String manipulation tools for remittance/return files",
+    "name": "naelf/file-orchestrator",
+    "description": "EN: A library for string manipulation, specifically designed for handling remittance and return files. Provides utilities for extracting and formatting string segments. \n PT: Uma biblioteca para manipulação de strings, projetada especificamente para lidar com arquivos de remessa e retorno. Fornece utilitários para extrair e formatar segmentos de strings.",
     "type": "library",
     "license": "MIT",
     "require": {
@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "StrTool\\": "src/"
+            "FileOrchestrator\\": "FileOrchestrator/"
         }
     }
 }
