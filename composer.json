@@ -1,0 +1,13 @@
+{
+    "name": "naelf/strtool",
+    "description": "pt: Ferramentas de manipulação de strings para arquivos de remessa/retorno \n en: String manipulation tools for remittance/return files",
+    "type": "library",
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "StrTool\\": "src/"
+        }
+    }
+}
